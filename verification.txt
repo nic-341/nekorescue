@@ -1,0 +1,17 @@
+PASS: STAGE 1 correct sequence
+PASS: STAGE 2 correct sequence
+PASS: STAGE 3 correct sequence
+PASS: STAGE 4 correct sequence
+PASS: STAGE 5 correct sequence
+PASS: STAGE 2 premature cat release fails after movement
+PASS: STAGE 3 premature cat release fails after movement
+PASS: STAGE 4 premature cat release fails after movement
+PASS: STAGE 5 premature cat release fails after movement
+PASS: STAGE 5 wrong water/rock order
+PASS: reset cancels ongoing animations
+PASS: progress and audio settings persist
+PASS: actual pointer targets work at mobile size
+PASS: canvas transform is restored after entity rendering
+PASS: no JavaScript exceptions; mobile has no horizontal overflow
+PASS: bundled BGM is served as audio
+Screenshots: mobile.png, stage5.png, desktop.png
